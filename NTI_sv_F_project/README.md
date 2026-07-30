@@ -30,24 +30,24 @@ ALU-16B-Testbench/
 The testbench follows a simplified verification flow inspired by common verification methodologies.
 
 ```
-Generator
-    │
-    ▼
- Driver
-    │
-    ▼
-   DUT
-    │
-    ▼
- Monitor
-    │
-    ├──────────────┐
-    ▼              ▼
- Predictor      DUT Output
-        │          │
-        └────┬─────┘
-             ▼
-          Checker
+                Generator
+                    │
+                    ▼
+                 Driver
+                    │
+                    ▼
+                   DUT
+                    │
+                    ▼
+                 Monitor
+                    │
+             ├──────────────┐
+            ▼              ▼
+         Predictor      DUT Output
+            │              │
+             └──────┬─────┘
+                    ▼
+                  Checker
 ```
 
 ---
