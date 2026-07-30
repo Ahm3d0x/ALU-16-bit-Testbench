@@ -1,0 +1,87 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/modelsim-projects/nti/lab6
+vALU_16B
+!s110 1785438050
+!i10b 1
+!s100 ILa6gL[UJ[nDjHVo5g90<1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+I@kIK17;F00QL>CQI724Cg0
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dG:/modelsim-projects/nti/NTI_sv_F_project
+w1785400152
+8G:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B.v
+FG:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B.v
+!i122 22
+L0 2 114
+Z2 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z3 !s108 1785438050.000000
+!s107 G:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B.v|
+!i113 1
+o-work work
+Z4 tCvgOpt 0
+n@a@l@u_16@b
+XALU_16B_tb_sv_unit
+Z5 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z6 !s110 1785438051
+Vf3RUd[1VBRbAKD`^91ZXc2
+r1
+!s85 0
+!i10b 1
+!s100 ?QMR0]=YHMB4KZZakHE=W0
+If3RUd[1VBRbAKD`^91ZXc2
+!i103 1
+S1
+R1
+Z7 w1785438044
+Z8 8G:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B_tb.sv
+Z9 FG:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B_tb.sv
+!i122 23
+L0 3 0
+R2
+31
+R3
+!s107 G:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B_tb.sv|
+Z10 !s90 -reportprogress|300|-work|work|-sv|-stats=none|G:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B_tb.sv|
+!i113 1
+Z11 o-work work -sv
+R4
+n@a@l@u_16@b_tb_sv_unit
+vtb_top
+R5
+DXx4 work 18 ALU_16B_tb_sv_unit 0 22 f3RUd[1VBRbAKD`^91ZXc2
+R6
+R0
+r1
+!s85 0
+!i10b 1
+!s100 IYh1XSBQPIGcokP4>1`E=0
+IbT[AEnMKOJ>gUD[Y;l8W;1
+!s105 ALU_16B_tb_sv_unit
+S1
+R1
+R7
+R8
+R9
+!i122 23
+L0 16 190
+R2
+31
+R3
+Z12 !s107 G:/modelsim-projects/nti/NTI_sv_F_project/ALU_16B_tb.sv|
+R10
+!i113 1
+R11
+R4
