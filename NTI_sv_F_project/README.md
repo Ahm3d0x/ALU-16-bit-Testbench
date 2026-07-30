@@ -6,7 +6,7 @@ This project is part of the **NTI Digital IC Design Training**.
 
 The objective of this assignment is to **verify an existing 16-bit ALU design** by developing a self-checking SystemVerilog Testbench.
 
-> **Note:** The ALU RTL design was provided by NTI.  
+> **Note:** The ALU RTL design was provided by instructor.  
 > Only the verification environment (Testbench) was implemented.
 
 ---
@@ -191,7 +191,6 @@ run -all
 - Automatic checking
 - Monitor-based architecture
 - Clear PASS/FAIL reporting
-- Easy to extend with additional test cases
 
 ---
 
