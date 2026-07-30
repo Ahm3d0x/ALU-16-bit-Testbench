@@ -5,12 +5,17 @@
 This lab contains several SystemVerilog programming exercises demonstrating the use of dynamic arrays, queues, associative arrays, and array methods.
 
 ---
+## Task 1 – Separate Even and Odd Numbers
 
-## Tasks
+### Input
 
-### Task 1 – Separate Even and Odd Numbers
+```text
+'{4, 9, 6, 7, 2, 5, 8, 6}
+```
 
-Read an integer array and separate its elements into:
+### Objective
+
+Separate the array into:
 
 - Even numbers
 - Odd numbers
@@ -21,9 +26,17 @@ Read an integer array and separate its elements into:
 
 ---
 
-### Task 2 – Longest Consecutive Sequence
+## Task 2 – Longest Consecutive Sequence
 
-Find the number that has the maximum consecutive repetitions.
+### Input
+
+```text
+'{1, 2, 3, 4, 4, 4, 4, 5, 6}
+```
+
+### Objective
+
+Find the value with the longest consecutive repetition.
 
 ### Output
 
@@ -31,9 +44,17 @@ Find the number that has the maximum consecutive repetitions.
 
 ---
 
-### Task 3 – Second Maximum Number
+## Task 3 – Second Maximum Number
 
-Find the second largest value in the array.
+### Input
+
+```text
+'{12, 45, 78, 21, 56, 34}
+```
+
+### Objective
+
+Find the second largest number in the array.
 
 ### Output
 
@@ -41,14 +62,21 @@ Find the second largest value in the array.
 
 ---
 
-### Task 4 – Frequency Counter
+## Task 4 – Frequency Counter
 
-Count how many times each number appears using an associative array.
+### Input
+
+```text
+'{3,3,3,3,4,4,4,5,5,5,6,6,6,6,7,8}
+```
+
+### Objective
+
+Count the frequency of each element using an associative array.
 
 ### Output
 
 ![Task 4](result/4.png)
-
 ---
 
 ## SystemVerilog Concepts Used
