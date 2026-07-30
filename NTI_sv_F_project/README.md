@@ -15,9 +15,12 @@ The objective of this assignment is to **verify an existing 16-bit ALU design** 
 
 ```
 .
-├── ALU_16B.v        // ALU Design (Provided)
-├── ALU_16B_tb.sv    // Self-checking Testbench
-└── README.md
+ALU-16B-Testbench/
+│
+├── ALU_16B.v          # Provided RTL Design
+├── ALU_16B_tb.sv      # SystemVerilog Testbench
+├── README.md
+└── result.png         # Simulation Result
 ```
 
 ---
@@ -180,7 +183,12 @@ Run simulation:
 ```tcl
 run -all
 ```
+---
+## Simulation Result
 
+The following screenshot shows the successful execution of the self-checking testbench.
+
+![Simulation Result](result.png)
 ---
 
 ## Features
