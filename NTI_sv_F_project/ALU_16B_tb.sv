@@ -55,9 +55,6 @@ ALU_16B dut (
 
 
 
-
-
-
   // generator task
 
 task generator();
