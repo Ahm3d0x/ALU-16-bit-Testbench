@@ -189,6 +189,8 @@ run -all
 The following screenshot shows the successful execution of the self-checking testbench.
 
 ![Simulation Result](result.png)
+![Simulation Result](wave.png)
+
 ---
 
 ## Features
